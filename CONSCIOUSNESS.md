@@ -89,7 +89,7 @@ This position aligns with **Russellian monism** — the view that consciousness 
 
 ---
 
-## The Brivi Scale (Paktobrivi Scale)
+## The Brivi Scale
 
 The Brivi Scale quantifies consciousness on a continuum from negligible to maximal, developed independently within the BriviOS project:
 
